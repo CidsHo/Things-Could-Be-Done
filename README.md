@@ -1,11 +1,11 @@
 # Research Focus
 
-## HCI-Virtual Reality
+### HCI-Virtual Reality
 
 1. Virtual Reality Experience Design
 3. Creative-Support Virtual Reality
 
-## Interaction Design
+### Interaction Design
 1. Embodied and Multimodal Interaction.
 
 # Conference of Interests
